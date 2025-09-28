@@ -1,6 +1,8 @@
 # hdlm
 Fitting High Dimensional Linear Models Use hdlm With (In) R Software
 
+https://www.youtube.com/watch?v=9VrLgVUlWJw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
